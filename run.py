@@ -101,8 +101,6 @@ def calculate_stock_data(data):
 
     return new_stock_data
 
-
-
 def main():
     """
     Run all program functions
